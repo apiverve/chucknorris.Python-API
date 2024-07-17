@@ -67,7 +67,7 @@ print(result)
   "status": "ok",
   "error": null,
   "data": {
-    "joke": "Chuck Norris Beard Has It's Own Impressive Resume."
+    "joke": "As A Baby, Chuck Norris Was So Scary That His Mother Fed Him Using A Catapult."
   }
 }
 ```
